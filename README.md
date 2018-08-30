@@ -1,2 +1,2 @@
 # Homeworks
-find all the homeworks of the course ehre
+find all the homeworks of the course here
